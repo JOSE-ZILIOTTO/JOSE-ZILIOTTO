@@ -13,7 +13,6 @@
 - 💼 Desenvolvedor de Software Júnior na **SRP Sistemas**, trabalhando com sistemas **ERP e PDV**
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela UCEFF
 - 📍 Caxambu do Sul – SC (região de Chapecó)
-- 🚀 **Aberto a oportunidades** como desenvolvedor Delphi — presencial, híbrido ou remoto
 
 ### 🛠️ Stack
 
