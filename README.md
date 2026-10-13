@@ -38,6 +38,6 @@
 ### 📊 Estatísticas
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JOSE-ZILIOTTO&show_icons=true&hide_border=true&locale=pt-br" alt="GitHub stats">
+
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSE-ZILIOTTO&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens">
 </p>
