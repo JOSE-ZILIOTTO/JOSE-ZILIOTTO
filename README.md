@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o José Ziliotto 👋</h1>
 <p align="center"><b>Desenvolvedor Delphi · ERP & PDV · Firebird · APIs com Horse</b></p>
 
 <p align="center">
