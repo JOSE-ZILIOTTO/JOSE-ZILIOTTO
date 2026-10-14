@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseziliotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://jose-ziliotto.github.io/Portifolio-JoseZiliotto/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-6D4AFF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:johsepzili@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
