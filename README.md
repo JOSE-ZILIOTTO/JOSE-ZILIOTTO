@@ -31,6 +31,7 @@
 
 | Projeto | Descrição |
 |---|---|
+| [EscalasBombeiros](https://github.com/JOSE-ZILIOTTO/EscalasBombeiros) | Sistema web de escala de plantões de bombeiros (BC e Fixo 24x72) em PHP/MySQL |
 | [API_Horse](https://github.com/JOSE-ZILIOTTO/API_Horse) | API REST de consulta com o framework Horse |
 | [Sistema_PDV](https://github.com/JOSE-ZILIOTTO/Sistema_PDV) | Aplicação de frente de caixa (PDV) em Delphi |
 | [System_GestaoFinanceira](https://github.com/JOSE-ZILIOTTO/System_GestaoFinanceira) | Protótipo web com API Horse para gestão financeira pessoal |
