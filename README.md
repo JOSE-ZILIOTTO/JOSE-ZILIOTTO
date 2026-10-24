@@ -41,5 +41,5 @@
 
 <p>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSE-ZILIOTTO&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSE-ZILIOTTO&layout=compact&hide_border=true&locale=pt-br&langs_count=8&cache_seconds=21600" alt="Linguagens">
 </p>
